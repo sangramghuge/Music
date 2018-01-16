@@ -10,7 +10,7 @@
   	header("location: login.php");
   }
 
-$con = mysqli_connect('localhost','root','root','Music');
+ $con = mysqli_connect('localhost','root','root','Music');
 ?>
 <!DOCTYPE html>
 <html>
